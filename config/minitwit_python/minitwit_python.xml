@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestApp name="minitwit_python">
+	<queryParam name="view" url="/public" outputFile="view.txt" />
+	<queryParam name="login" url="/login" outputFile="login.txt" />
+	<queryParam name="register" url="/register" outputFile="register.txt" /> 
+</TestApp>
